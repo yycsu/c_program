@@ -27,5 +27,6 @@ int main()
 			break;
 
 	printf("The max is: %d\n", --i);
+	printf("trying to add some news to this program");
 	return 0;
 }
